@@ -1,5 +1,3 @@
-# Minimalistic-Blog
-
 # Minimalistic Responsive Blog Website
 
 ![Screenshot of the Website](/images/minimalblog.png)
